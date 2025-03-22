@@ -10,7 +10,7 @@ Los primeros términos de la secuencia son: 1, 2, 3, 4, 6, 8, 11, 13, 16, 18, 26
 #include <stdio.h>
 #include <stdbool.h>
 
-#define MAX_TERMS 50  // Máximo número de términos a calcular
+#define MAX_TERMS 1000 // Máximo número de términos a calcular
 
 int main() {
     int ulam[MAX_TERMS];  // Arreglo para almacenar la serie
@@ -18,7 +18,6 @@ int main() {
     int next_num = 3;     // El siguiente número a evaluar
     int num_terms;
 
-    // Pedir la cantidad de términos al usuario
     printf("Ingrese la cantidad de términos de la serie de Ulam: ");
     scanf("%d", &num_terms);
 
