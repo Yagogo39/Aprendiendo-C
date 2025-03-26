@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//Constantes
+
 int main(){
 	const int val =10;
 	const float floatVal = 4.5;
