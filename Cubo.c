@@ -3,6 +3,7 @@ El programa calcula el cubo de los 10 primeros números naturales con la
 ayuda de una función. En la solución del problema se utiliza una variable
 global, aunque esto, como veremos más adelante, no es muy recomendable. */
 
+//diego
 #include <stdio.h>
 
 int cubo(void);
