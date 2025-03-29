@@ -6,6 +6,8 @@ El programa, al recibir como datos una serie de calificaciones de un examen,
 
 int main(void){
 
+    printf("CALIFICACIONES\n\n");
+
     int r1 = 0, r2 = 0, r3 = 0, r4 = 0, r5 = 0;
     float cal;
     
