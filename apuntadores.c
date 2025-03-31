@@ -7,7 +7,7 @@ int main(){
 
 	p = &i;
 
-	printf("%a", p);
+	printf("%p\n", (void *)p);
 
 	return 0;
 }
