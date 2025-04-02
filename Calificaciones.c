@@ -2,7 +2,7 @@
 
 /* Examen de admisión.
 El programa, al recibir como datos una serie de calificaciones de un examen,
-obtiene el rango en que se encuentran éstas.*/
+obtiene el rango en que se encuentran éstas..*/
 
 int main(void){
 
