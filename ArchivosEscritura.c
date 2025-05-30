@@ -2,7 +2,7 @@
 
 /*
 Archivos y caracteres.
-El programa escribira caracteres en un archivo(un solo caracter)
+El programa escribira caracteres en un archivo
 */
 
 void main(void){
